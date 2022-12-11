@@ -24,3 +24,8 @@ Code must be written in python & SQL queries wherever applicable. Jupyter notebo
 The assignment has to be completed today. After the assignment is complete, send us the github link to the code along with output csv files from all queries. Your output must have all the required data required to understand it. Code quality matters to us.
 
 If you have any other questions, you can reach out to us here. All the best!
+
+# Usage
+1. Run the command `.\venv\Scripts\activate` to start virtual environment.
+2. Run `pip install -r requirements.txt` to install required libraries.
+3. Run `python app.py` to write query outputs in CSV files.
